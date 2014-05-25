@@ -13,3 +13,7 @@ QPropertyEditor is tested successfully in these platform as follow:
 - Qt5.3.0 64bit MSVC12.0 Windows
 - Qt5.3.0 32bit MSVC12.0 Windows
 - Qt5.3.0 32bit MinGW4.8.2 Windows
+
+
+Documentation:
+[http://chenguanzhou.github.io/QPropertyEditor/](http://chenguanzhou.github.io/QPropertyEditor/)
